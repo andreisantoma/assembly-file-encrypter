@@ -1,5 +1,5 @@
 # file-encrypter-decrypter
-_A simple x86 assembly file encrypter/decrypter_
+_A simple x86 Assembly file encrypter/decrypter_
 
 
 ## Encryption algorithms
